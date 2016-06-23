@@ -1,0 +1,49 @@
+body {
+	background-color: #4d654a;
+}
+.enclosing {
+	height: 1250px;
+	background-color:#5c5c5c;
+}
+nav {
+	border: 0px;
+	outline: 0px;
+}
+.navigation_style {
+	width: 100%;
+	color: white;
+	background-color: #94bab6;
+}
+#logo {
+	color: white;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 3em;
+	font-style: bold;
+}
+h1 {
+	font-size: 2em;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.menu_items {
+	background-color: #94bab6;
+	height: 250px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	overflow: hidden;
+	text-align: center;
+	color: white;
+}
+
+.title-card {
+	font-size: 1.8em;
+	font-style: bold;
+	margin-bottom: 15px;
+}
+
+
+
